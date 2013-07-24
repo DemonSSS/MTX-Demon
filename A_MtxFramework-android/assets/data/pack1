@@ -1,0 +1,452 @@
+pack1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+waterloop_
+  rotate: false
+  xy: 1282, 1257
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 9
+img_label_freeachievementhints
+  rotate: false
+  xy: 1, 1443
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: -1
+blood_d_
+  rotate: false
+  xy: 1654, 1779
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 5
+waterend_
+  rotate: false
+  xy: 580, 1636
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 4
+waterstart_
+  rotate: false
+  xy: 1765, 696
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 4
+flame_a_
+  rotate: false
+  xy: 1352, 1679
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 1
+img_label_followustweeter
+  rotate: false
+  xy: 1576, 1183
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: -1
+waterend_
+  rotate: false
+  xy: 1159, 1643
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 1
+img_btn_rateus
+  rotate: false
+  xy: 1282, 352
+  size: 500, 125
+  orig: 500, 125
+  offset: 0, 0
+  index: -1
+waterloop_
+  rotate: false
+  xy: 194, 1544
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 6
+img_btn_achievements
+  rotate: false
+  xy: 1783, 252
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+img_loading_text
+  rotate: false
+  xy: 1654, 1930
+  size: 210, 50
+  orig: 210, 50
+  offset: 0, 0
+  index: -1
+waterend_
+  rotate: false
+  xy: 387, 1636
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 7
+flame_a_
+  rotate: false
+  xy: 1576, 931
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 4
+img_btn_hint
+  rotate: false
+  xy: 1475, 1174
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+img_btn_credits
+  rotate: false
+  xy: 1282, 740
+  size: 310, 130
+  orig: 310, 130
+  offset: 0, 0
+  index: -1
+waterloop_
+  rotate: false
+  xy: 788, 1443
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 4
+blood_d_
+  rotate: false
+  xy: 1503, 1830
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 2
+waterloop_
+  rotate: false
+  xy: 1, 1544
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 7
+img_label_likeusfacebook
+  rotate: false
+  xy: 1475, 1385
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: -1
+img_btn_refresh
+  rotate: false
+  xy: 1475, 972
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+waterend_
+  rotate: false
+  xy: 966, 1636
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 2
+waterstart_
+  rotate: false
+  xy: 1282, 871
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 2
+flame_a_
+  rotate: false
+  xy: 1876, 1284
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 3
+img_credits
+  rotate: false
+  xy: 1, 1
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+img_btn_vibrate
+  rotate: false
+  xy: 689, 1829
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+waterloop_
+  rotate: false
+  xy: 595, 1443
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 5
+blood_d_
+  rotate: false
+  xy: 387, 1829
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 1
+waterend_
+  rotate: false
+  xy: 1753, 1586
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 8
+img_btn_play
+  rotate: false
+  xy: 1282, 609
+  size: 310, 130
+  orig: 310, 130
+  offset: 0, 0
+  index: -1
+waterend_
+  rotate: false
+  xy: 194, 1737
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 5
+waterstart_
+  rotate: false
+  xy: 1765, 503
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 5
+img_label_tweetaboutus
+  rotate: false
+  xy: 1475, 1284
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: -1
+img_btn_menu
+  rotate: false
+  xy: 1475, 1073
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+flame_a_
+  rotate: false
+  xy: 1593, 629
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 6
+img_btn_leaderboard
+  rotate: false
+  xy: 1783, 1
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+waterloop_
+  rotate: false
+  xy: 1174, 1450
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 2
+blood_d_
+  rotate: false
+  xy: 1805, 1779
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 4
+img_btn_sound
+  rotate: false
+  xy: 815, 1829
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+img_label_free_hints
+  rotate: false
+  xy: 1576, 1082
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: -1
+img_obj_meter_water
+  rotate: false
+  xy: 1744, 478
+  size: 20, 540
+  orig: 20, 540
+  offset: 0, 0
+  index: -1
+img_logo
+  rotate: false
+  xy: 1282, 1
+  size: 500, 350
+  orig: 500, 350
+  offset: 0, 0
+  index: -1
+flame_a_
+  rotate: false
+  xy: 1593, 780
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 5
+img_btn_music
+  rotate: false
+  xy: 941, 1829
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+img_obj_bubble
+  rotate: false
+  xy: 538, 1829
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+waterloop_
+  rotate: false
+  xy: 981, 1443
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 3
+img_btn_reset
+  rotate: false
+  xy: 1475, 871
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+blood_d_
+  rotate: false
+  xy: 1352, 1830
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 3
+img_loading_gear
+  rotate: false
+  xy: 1979, 503
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+waterend_
+  rotate: false
+  xy: 1, 1737
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 6
+img_btn_games
+  rotate: false
+  xy: 1282, 478
+  size: 310, 130
+  orig: 310, 130
+  offset: 0, 0
+  index: -1
+img_obj_sparkle
+  rotate: false
+  xy: 1979, 554
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+waterend_
+  rotate: false
+  xy: 773, 1636
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 3
+waterloop_
+  rotate: false
+  xy: 1367, 1486
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 1
+waterstart_
+  rotate: false
+  xy: 1765, 889
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 3
+waterloop_
+  rotate: false
+  xy: 402, 1443
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 8
+img_btn_home
+  rotate: false
+  xy: 1067, 1836
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+img_bg
+  rotate: false
+  xy: 1, 722
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+blood_d_
+  rotate: false
+  xy: 1503, 1679
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 6
+img_obj_meter_burn
+  rotate: false
+  xy: 1958, 503
+  size: 20, 540
+  orig: 20, 540
+  offset: 0, 0
+  index: -1
+waterend_
+  rotate: false
+  xy: 1560, 1486
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 9
+waterstart_
+  rotate: false
+  xy: 1282, 1064
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 1
+img_btn_fireextingguisher
+  rotate: false
+  xy: 1593, 478
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+flame_a_
+  rotate: false
+  xy: 1876, 1435
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 2
